@@ -6,6 +6,7 @@ Has a 50% chance to drop the drumstick
 ---
 👉 Modrinth: https://modrinth.com/mod/allay-drumsticks
 
+👉 CurseForge: https://www.curseforge.com/minecraft/mc-mods/allay-drumsticks
 ---
 
 For Fabric
