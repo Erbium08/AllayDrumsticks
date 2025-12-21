@@ -8,4 +8,6 @@ Has a 50% chance to drop the drumstick
 
 ---
 
-For Fabric 1.21.1
+For Fabric
+- 1.20.1
+- 1.21.1
